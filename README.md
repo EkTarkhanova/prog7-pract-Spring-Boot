@@ -11,6 +11,10 @@
 ### Шаг 2. Установка системных пакетов
 ![image](https://github.com/user-attachments/assets/ac2c61c7-c42d-4fb8-9cb8-76211477b802)
 
+### Шаг 3
+![image](https://github.com/user-attachments/assets/7fb9fbe8-beed-4b2d-afda-1828b7f7d088)
+
+
 Приложение включает в себя:
 
 - **Контроллеры** — для обработки HTTP-запросов.
