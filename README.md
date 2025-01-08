@@ -17,6 +17,7 @@
 
 ### Результат
 ![image](https://github.com/user-attachments/assets/6eeeef2e-3b8c-4a70-973c-b71d2914089e)
+![image](https://github.com/user-attachments/assets/c1f313ad-8ffc-4af0-9fec-1ce650ee53a3)
 
 
 
