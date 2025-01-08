@@ -13,6 +13,11 @@
 
 ### Шаг 3
 ![image](https://github.com/user-attachments/assets/7fb9fbe8-beed-4b2d-afda-1828b7f7d088)
+![image](https://github.com/user-attachments/assets/471ae7bf-b3be-42d7-a59c-6b46ab9ad4f6)
+
+### Результат
+![image](https://github.com/user-attachments/assets/6eeeef2e-3b8c-4a70-973c-b71d2914089e)
+
 
 
 Приложение включает в себя:
